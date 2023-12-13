@@ -22,13 +22,13 @@ To use this project, follow these steps:
 3. **Set GitHub Secrets:**
     In your GitHub repository, go to "Settings" -> "Secrets" and add the following secrets:
     
-    ID: Your Reddit API client ID.
-    SECRET: Your Reddit API client secret.
-    USERAGENT: Your Reddit API user agent.
-    USER: Your Reddit account username
-    PWR: Your Reddit account password
-    EMAIL: Your email account username.
-    PWE: Your email account password.
+    - ID: Your Reddit API client ID.
+    - SECRET: Your Reddit API client secret.
+    - USERAGENT: Your Reddit API user agent.
+    - USER: Your Reddit account username
+    - PWR: Your Reddit account password
+    - EMAIL: Your email account username.
+    - PWE: Your email account password.
    
 **Contributing**
   Feel free to contribute to this project by opening issues or pull requests. Your contributions are welcome
