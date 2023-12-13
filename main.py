@@ -8,8 +8,8 @@ current_directory = os.path.dirname(__file__)
 os.chdir(current_directory)
 
 if __name__ == '__main__':
-    sub = "blackcats"
+    sub = "IllegallySmolCats"
     img = scrape_top_of_day(sub)
     print(img)
-    rec = "oussama326mejri@gmail.com"
+    rec = "mouchmouhem1@gmail.com"
     sendMail(rec, img)
