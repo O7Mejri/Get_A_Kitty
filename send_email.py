@@ -29,9 +29,9 @@ def sendMail(rec, img_path):
     context = ssl.create_default_context()
 
     rec = rec
-    sbj = "YOU BEING STUPID"
+    sbj = "Daily Morning Kitty"
     current_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    body = f"I will later provide my resons \n\n Current Date and Time: {current_datetime}"
+    body = f"Good morning, \n\n Here's a kitty from the fairy of the cats distribution system. \n Have a beautiful day.\n\n Current Date and Time: {current_datetime}"
 
     msg = MIMEMultipart()
     msg["From"] = EMAIL
