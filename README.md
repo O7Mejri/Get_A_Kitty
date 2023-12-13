@@ -30,6 +30,6 @@ To use this project, follow these steps:
     - EMAIL: Your email account username.
     - PWE: Your email account password.
    
-**Contributing**
+## Contributing
   Feel free to contribute to this project by opening issues or pull requests. Your contributions are welcome
     
